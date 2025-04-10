@@ -7,9 +7,12 @@ This is a short horror game made for the purposes of better learning Unity and l
 Movement
 - [W] [A] [S] [D]
 
+Sprinting 
+- [SHIFT]
+
 Crouching
 - [CTRL]
-
+  
 Interaction
 - [E]
 
